@@ -1,1 +1,1 @@
-# This repo contains programs repalted to terraform. Provisioning infrastructure using terraform.
+# This repo contains programs related to terraform. Provisioning infrastructure using terraform.
